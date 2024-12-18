@@ -1,0 +1,31 @@
+q_id,a_id,question,correct_answer,incorrect_answer_1,incorrect_answer_2,incorrect_answer_3
+1,1,What is the capital of France?,Paris,Berlin,London,Madrid
+2,2,"Which planet is known as the ""Red Planet""?",Mars,Jupiter,Mercury,Venus
+3,3,What year is it?,2024,1984,2000,2020
+4,4,Which answer is a primary color?,Blue,Purple,Black,Gold
+5,5,What color is grass?,Green,Red,White,Silver
+6,6,What is the largest internal organ in the human body?,Liver,Lung,Stomach,Heart
+7,7,Which gas is most abundant in the Earth's atmosphere?,Nitrogen,Oxygen,Carbon dioxide,Argon
+8,8,What is the square root of 16?,4,11,10,13
+9,9,What is the chemical symbol for sodium,Na,Co,Po,Kr
+10,10,What gas do humans inhale when they breathe in? ,Oxygen,Carbon dioxide,Nitrogen,Hydrogen
+11,11,What is the capital of Japan?,Tokyo,Beijing,Seoul,Shanghai
+12,12,"Which planet is often referred to as the ""Morning Star"" or ""Evening Star""?",Venus,Mars,Mercury,Saturn
+13,13,What is the chemical symbol for carbon?,C,O,Co,Cl
+14,14,What is the capital city of Utah state ?,SaltLakeCity,Jordan,Draper,SpanishFork
+15,15,Who is known as the father of modern physics?,Albert Einstein,Isaac Newton,Stephen Hawking,Nikola Tesla
+16,16,What is the largest organ of the human body?,Skin,Liver,Heart,Brain
+17,17,Which gas is responsible for the Earth's ozone layer?,Oxygen,Ozone,Nitrogen,Carbon dioxide
+18,18,What is the smallest prime number?,2,3,1,5
+19,19,What is the chemical symbol for Gold?,Au,Ag,Pt,Cu
+20,20,Which gas do plants release during photosynthesis?,Oxygen,Carbon dioxide,Nitrogen,Hydrogen
+21,21,What is the capital of Italy?,Rome,Milan,Barcelona,Vienna
+22,22,What is the chemical symbol for iron?,Fe,I,Ir,In
+23,23,What is the largest ocean in the world?,Pacific Ocean,Atlantic Ocean,Indian Ocean,Arctic Ocean
+24,24,"What is the tallest mountain in the world?",Mount Everest,K2,Mount Kilimanjaro,Denali
+25,25,What is the square root of 144?,12,11,10,13
+26,26,What is the chemical symbol for potassium?,K,Co,Po,Kr
+27,27,What gas do humans exhale when they breathe out?,Carbon dioxide,Oxygen,Nitrogen,Hydrogen
+28,28,How many continents are there on Earth?,7,5,6,4
+29,29,What is the largest planet in our solar system?,Jupiter,Earth,Venus,Mars
+30,30,In which country was the game of chess invented?,India,China,Japan,Russia
